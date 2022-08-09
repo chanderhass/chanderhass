@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chanderhass
-- 👀 I’m interested in somethings
-- 🌱 I’m currently learning something
+- 👀 I’m interested in numbers
+- 🌱 I’m currently learning databases
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me - chanderhass2712@gmail.com
 
